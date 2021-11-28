@@ -6,6 +6,6 @@
 5. Run the scenarios from the feature file -> under Run -> Edit Configuration -> Ensure that glue is set to the 'steps' directory
 
 IMPORTANT:
-Before running the tests please fill int he valid password (provided in the text file attached for submission) in the steps that mention
+Before running the tests please fill in the valid password (provided in the text file attached for submission) for the steps in login.feature file that mention
 <insert valid password>
 otherwise the tests will fail. Thanks.
